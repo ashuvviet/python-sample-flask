@@ -1,0 +1,1 @@
+{"widgets": {"4": {"src": "uploads/TestComponent2/element.js", "style": "uploads/TestComponent2/styles.css", "name": "TestComponent2", "tags": "test", "type": "test"}, "5": {"src": "uploads/Test/element.js", "style": "uploads/Test/styles.css", "name": "Test", "tags": "app-component,test-component,chart-component", "type": "chart,text,numbers"}}}
